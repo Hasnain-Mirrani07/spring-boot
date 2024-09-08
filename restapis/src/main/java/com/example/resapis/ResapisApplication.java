@@ -1,0 +1,13 @@
+package com.example.resapis;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ResapisApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ResapisApplication.class, args);
+	}
+
+}
